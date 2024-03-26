@@ -3,7 +3,7 @@ Vamos criar uma receita de massa de pizza que requer 12 horas de fermentação, 
 Massa de Pizza Artesanal (12 Horas de Fermentação)
 Ingredientes (para 2 bolas de massa de 250 gramas cada):
 
-    500 gramas de farinha de trigo (preferencialmente tipo 00 ou farinha de alta proteína)
+    550 gramas de farinha de trigo (preferencialmente tipo 00 ou farinha de alta proteína)
     325 ml de água (em temperatura ambiente)
     10 gramas de sal
     1 grama de fermento biológico seco (sim, apenas 1 grama!)
